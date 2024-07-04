@@ -1,0 +1,4 @@
+Name: Mr. Alpha, Basic Pay: 30000.0, Total Salary: 48600.0
+Name: Mr. Beta, Basic Pay: 27000.0, Total Salary: 43890.0
+Name: Mrs. Gamma, Basic Pay: 25000.0, Total Salary: 40750.0
+Name: Miss. Delta, Basic Pay: 60000.0, Total Salary: 95700.0
